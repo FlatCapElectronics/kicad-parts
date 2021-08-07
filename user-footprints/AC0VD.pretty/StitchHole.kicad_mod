@@ -1,0 +1,9 @@
+(module StitchHole (layer F.Cu) (tedit 53AB7001)
+  (fp_text reference StitchHole (at 0 2.2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value VAL** (at 0 -2.6) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+)
