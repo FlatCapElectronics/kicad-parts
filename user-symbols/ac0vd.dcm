@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC164
+D Shift Register 8-bit, parallel load
+K TTL SR SR8
+F http://www.ti.com/lit/gpn/sn74HC164
+$ENDCMP
+#
+$CMP 74HC393
+D Dual BCD 4-bit counter
+K TTL CNT CNT4
+F http://pdf.datasheetcatalog.com/datasheet/HitachiSemiconductor/mXurztq.pdf
+$ENDCMP
+#
+$CMP AtmelAT89C51
+D Ancient 8051 core microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0265.pdf
+$ENDCMP
+#
+$CMP GS03911AX
+D Single digit 7 segment red LED display, common cathode, found in the HC-F2700L Counter
+K display LED 7-segment
+F https://wiki.tolabaki.gr/mediawiki/images/e/e5/GREEGO_Electrics_datasheet.pdf
+$ENDCMP
+#
+$CMP MAX7219
+F https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf
+$ENDCMP
+#
+$CMP MAX7219CNG
+D Serially Interfaced 8Digit LED Display Driver
+F https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf
+$ENDCMP
+#
+$CMP MB501L
+D Fujitsu MB501L Dual Modulus Prescaler
+F https://www.qsl.net/n9zia/mc145158/mb501.pdf
+$ENDCMP
+#
+$CMP MB506
+D Fujitsu MB506 UHF 64/128/256 Prescaler
+F https://www.qsl.net/n9zia/900/mb506.pdf
+$ENDCMP
+#
+$CMP MC10116L
+D Triple Differential Line Receiver
+F http://pdf.datasheetcatalog.com/datasheets/105/396469_DS.pdf
+$ENDCMP
+#
+#End Doc Library
