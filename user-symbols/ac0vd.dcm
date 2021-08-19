@@ -12,9 +12,14 @@ K TTL CNT CNT4
 F http://pdf.datasheetcatalog.com/datasheet/HitachiSemiconductor/mXurztq.pdf
 $ENDCMP
 #
-$CMP AtmelAT89C51
-D Ancient 8051 core microcontroller
-F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0265.pdf
+$CMP 7SEG4DIG_Cotco
+D 4D7S Display with extras
+K seven segment 7seg
+$ENDCMP
+#
+$CMP BAV99
+D SOT23 Dual HS Switching Diodes
+F https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
 $ENDCMP
 #
 $CMP GS03911AX
