@@ -2230,7 +2230,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 0 -3.81 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
       (effects (font (size 1.524 1.524)))
