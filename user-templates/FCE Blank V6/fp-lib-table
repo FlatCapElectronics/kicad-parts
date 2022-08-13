@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AC0VD")(type "KiCad")(uri "/home/djphil/git/kicad-parts/user-footprints/AC0VD.pretty")(options "")(descr ""))
+)

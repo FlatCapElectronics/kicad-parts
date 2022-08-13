@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ac0vd")(type "Legacy")(uri "/home/djphil/git/kicad-parts/user-symbols/ac0vd.lib")(options "")(descr ""))
+  (lib (name "FCE-DQX")(type "Legacy")(uri "/home/djphil/git/kicad-parts/user-symbols/FCE-DQX.lib")(options "")(descr ""))
+  (lib (name "FCE-Opamp")(type "Legacy")(uri "/home/djphil/git/kicad-parts/user-symbols/FCE-Opamp.lib")(options "")(descr ""))
+  (lib (name "FCE-Power")(type "Legacy")(uri "/home/djphil/git/kicad-parts/user-symbols/FCE-Power.lib")(options "")(descr ""))
+  (lib (name "FCE-RCL")(type "Legacy")(uri "/home/djphil/git/kicad-parts/user-symbols/FCE-RCL.lib")(options "")(descr ""))
+)
